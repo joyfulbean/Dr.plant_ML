@@ -4,6 +4,7 @@ An machine learning model for predicting the sickness of each expensive plants.
 #### **2020.1-2020.2**  | **딥러닝을 이용하여 병든 식물 진단기 어플리케이션 개발, 관리자 페이지 개발**
 
 ## 시연 영상: https://www.youtube.com/watch?v=v8FeIa-64ao
+## vue.js 연습용 프로젝트: https://github.com/joyfulbean/IntroductionToYebin
 
 ### ****\[인턴 경험담\]****
 
